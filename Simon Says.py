@@ -117,7 +117,7 @@ ACTIVE_INTERVAL = 3600
 AUDIT_INTERVAL  = 86400
 
 # OpenWeatherMap
-OWM_API_KEY = "9055430fbd548da87b5c91cbd5f06968"
+OWM_API_KEY = " PLACE YOUR OWN OWM API KEY HERE"
 OWM_URL     = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather_data(city):
